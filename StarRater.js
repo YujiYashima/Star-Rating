@@ -121,5 +121,7 @@ class StarRater extends HTMLElement {
 
 }
 
+//Testando Comentário
+
 //Customizando o nosso elemento com um nome "SEMPRE COMPOSTO COM UM HÍFEN"
 customElements.define('star-rater', StarRater);
